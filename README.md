@@ -11,6 +11,9 @@ The application renders different Disney characters images to the screen. The ap
 when an image is clicked for the first time. Every time an image is clicked, the images are shuffled in a random order. 
 When user clicked the same image, the game is over and score is reset back to zero.
 
+## View site:
+https://restimirandanu.github.io/clicky-disney-game/
+
 ## Screen shot:
 
 ## Main Page
