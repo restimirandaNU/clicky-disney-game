@@ -31,4 +31,4 @@ https://restimirandanu.github.io/clicky-disney-game/
 2. Deployment to GitHub
 
 ## Author
-Resti Miranda - NU Codng Bootcamp
+Resti Miranda - Northwestern University Codng Bootcamp
