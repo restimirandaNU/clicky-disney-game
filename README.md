@@ -13,4 +13,19 @@ When user clicked the same image, the game is over and score is reset back to ze
 
 ## Screen shot:
 
+## Main Page
 
+<img width="1680" alt="Screen Shot 2019-03-10 at 7 30 39 PM" src="https://user-images.githubusercontent.com/43328718/54094124-85184500-436c-11e9-9018-0202de4e3e50.png">
+
+## User clicked image twice. Game is over
+
+<img width="1680" alt="Screen Shot 2019-03-10 at 7 42 34 PM" src="https://user-images.githubusercontent.com/43328718/54094157-c3156900-436c-11e9-85cf-1c91ebc1dbaa.png">
+
+
+## Technology Used:
+
+1. React
+2. Deployment to GitHub
+
+## Author
+Resti Miranda - NU Codng Bootcamp
